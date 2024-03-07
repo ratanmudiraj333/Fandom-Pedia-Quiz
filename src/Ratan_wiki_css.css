@@ -1,0 +1,152 @@
+body{
+    background-image: url("./images/Ratan_wiki_img4.jpg");
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    font-family: Comic Sans MS;
+    height: 735px;
+}
+
+body
+{
+    background-color: black;
+}
+
+.head1{
+    font-family:Arial Black ;
+    background-color: orange;
+    color: blue;
+    text-align: center;
+}
+
+.head2{
+    font-family:Arial Black ;
+    background-color: orange;
+    color: blue;
+    text-align: center;
+}
+
+.card1
+{
+    width: 20rem
+}
+
+.card2
+{
+    width: 20rem
+}
+
+.card3
+{
+    width: 20rem
+}
+
+.container
+{
+    display:flex;
+    gap:100px;
+}
+
+.container1
+{
+    position:relative;
+    top:12px;
+    left:-50px;
+}
+
+.container2
+{
+    position:relative;
+    top:80px;
+    left:-80px;
+    width:100%;
+    height:200%;
+    text-align: justify;
+}
+
+.container3
+{
+    position:relative;
+    top:80px;
+    left:-80px;
+    text-align: justify;
+}
+
+.container4
+{
+    position:relative;
+    top:80px;
+    left:-80px;
+    text-align: justify;
+}
+
+.Menu{
+    color:blue;
+    font-size: xx-large;
+    padding: 10px;  
+  }
+/*
+.home{
+    position:relative;
+    left:300px;
+    top: -200px;
+    height: 100px;
+    width: 415px;
+    margin-left: 10px;
+}
+
+.home2{
+    position:relative;
+    left:600px;
+    top: -200px;
+    height: 100px;
+    width: 415px;
+    margin-left: 10px;
+}*/
+
+.Heading
+{
+    position:relative;
+    left:538px;
+    top: 50px;
+    height: 100px;
+    width: 415px;
+    margin-left: 10px;
+    border: solid black;
+    border-width: 5px;
+    padding: 20px;
+}
+
+/*
+
+.Movies{
+  color:blue;
+background-color: orange;
+  padding: 20px;  
+}
+
+
+.Anime{
+    color:blue;
+    background-color: orange;
+    padding: 20px;  
+  }
+
+  .Tv{
+    color:blue;
+    background-color: orange;
+    padding: 20px;  
+  } 
+
+  .Quiz{
+    color:blue;
+    background-color: orange;
+    padding: 40px;  
+  } */
+
+  .bt1,.bt2,.bt3,.bt4
+{
+    color: blue;
+    background-color: orange;
+    height: 90px;
+    width: 150px;
+}

@@ -1,0 +1,88 @@
+.quizbg
+{
+    background-image: url("./images/Ratan_quiz_bg.jpg");
+    font-family: Comic Sans MS;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    height: 776px;
+}
+
+.quizzbg
+{
+    background-image: url("./images/Ratan_quiz_bg.jpg");
+    font-family: Comic Sans MS;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    height: 1100px;
+}
+
+
+body
+{
+    background-color: black;
+}
+
+.head1{
+    font-family:Arial Black ;
+    background-color: orange;
+    color: blue;
+    text-align: center;
+}
+
+.head2{
+    font-family:Arial Black ;
+    background-color: orange;
+    color: blue;
+    text-align: center;
+}
+
+.quizcontainer1
+{
+position: relative;
+left:450px;
+width:600px;
+border-radius: 10%;
+background-color: grey;
+padding: 30px;;
+}
+
+.quizcontainermenu
+{
+    position: relative;
+    text-align: center;
+    left:590px;
+    top:50px;
+    width:350px;
+    height: 350px;
+    border-radius: 10%;
+    color: blue;
+    padding: 30px;;
+    }
+
+.home
+{
+    text-align: center;
+    color: blue;
+}
+
+.resultbtn
+{
+    background-color:orange;
+        font-family: Comic Sans MS;
+}
+
+.qbt
+{
+    height: 60px;
+    width: 200px;
+    font-size: x-large;
+    background-color: orange;
+    color: blue;
+}
+
+.restartbtn
+{
+    background-color:orange;
+        font-family: Comic Sans MS;
+        margin-left: 10px;
+}

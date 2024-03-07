@@ -1,0 +1,138 @@
+body{
+    background-image: url("./images/Ratan_wiki_img4.jpg");
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    font-family: Comic Sans MS;
+}
+.image1
+{
+    border-radius: 8px;
+    padding: 10px;
+    float: left;
+    width: 200px;
+    height:200px;
+}
+
+.bta
+{
+    color: blue;
+    background-color:orange;
+    height: 65px;
+    width: 100px;
+}
+
+.text1
+{
+text-align: justify;
+}
+.head1{
+    font-family:Arial Black ;
+    background-color: orange;
+    color: blue;
+    text-align: center;
+}
+
+.head2{
+    font-family:Arial Black ;
+    background-color: orange;
+    color: blue;
+    text-align: center;
+}
+
+.search
+{
+    width:300px;
+}
+
+.card1
+{
+    width: 20rem
+}
+
+.card2
+{
+    width: 20rem
+}
+
+.card3
+{
+    width: 20rem
+}
+
+.carddesign
+{
+    background-color: grey;
+    display:grid;
+    grid-template-rows: auto;
+}
+
+.acontainer
+{
+    display:flex;
+    gap:100px;
+}
+
+.acontainer1
+{
+    position:relative;
+    top:20px;
+    background-color:"";
+    left:30px;
+    /*height:640px;*/
+}
+
+.acontainer2
+{
+    position:relative;
+    top:70px;
+    left:-60px;
+    width:100%;
+    height:200%;
+}
+
+.acontainer3
+{
+    position:relative;
+    top:70px;
+    left:-50px;
+    width:100%;
+    height:200%;
+}
+
+
+/*
+.home{
+    position:relative;
+    left:300px;
+    top: -200px;
+    height: 100px;
+    width: 415px;
+    margin-left: 10px;
+}
+
+.home2{
+    position:relative;
+    left:600px;
+    top: -200px;
+    height: 100px;
+    width: 415px;
+    margin-left: 10px;
+}*/
+
+.Heading
+{
+    position:relative;
+    left:538px;
+    top: 50px;
+    height: 100px;
+    width: 415px;
+    margin-left: 10px;
+    border: solid black;
+    border-width: 5px;
+    padding: 20px;
+}
+
+.LA
+{
+    color: blue;
+}
