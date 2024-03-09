@@ -124,7 +124,7 @@ function restart()
 }
     return(
         <div className='quizzbg'>
-        <h1 className='head1'>FANDOM QUIZ</h1>
+        <h1 className='head1'>Fandom Quiz</h1>
 <h4 className='head2'>Test your fandom knowledge</h4>
 
             <div className = "quizcontainer1">
