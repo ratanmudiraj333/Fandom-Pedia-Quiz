@@ -143,10 +143,20 @@ background-color: orange;
     padding: 40px;  
   } */
 
-  .bt1,.bt2,.bt3,.bt4
+  .bt1,.bt2,.bt3
+{
+    color: blue;
+    background-color: orange;
+    height: 80px;
+    width: 150px;
+    font-size:large;
+}
+
+.bt4
 {
     color: blue;
     background-color: orange;
     height: 90px;
     width: 150px;
+    font-size:large;
 }

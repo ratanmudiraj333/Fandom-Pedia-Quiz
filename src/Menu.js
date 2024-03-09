@@ -22,9 +22,9 @@ function Menu()
 <h5 className = "Menu">Menu</h5>
 <div className="btn-group-vertical" role="group" aria-label="Vertical button group">
 
-<Link to="/movie"><button type="button" className="btn btn-primary bt2 Movies">Movies</button></Link>
-  <Link to="/anime"><button type="button" className="btn btn-primary bt3 Anime">Anime</button></Link>
-  <Link to="/tv"><button type="button" className="btn btn-primary bt4 Tv">TV/Web Series</button></Link>
+<Link to="/movie"><button type="button" className="btn btn-primary bt1 Movies">Movies</button></Link>
+  <Link to="/anime"><button type="button" className="btn btn-primary bt2 Anime">Anime</button></Link>
+  <Link to="/tv"><button type="button" className="btn btn-primary bt3 Tv">TV/Web Series</button></Link>
   <Link to="/quiz"><button type="button" className="btn btn-primary bt4 Quiz">Quiz (Test your knowledge)</button></Link>
 </div>   
 </div>
